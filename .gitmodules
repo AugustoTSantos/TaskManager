@@ -1,0 +1,6 @@
+[submodule "TaskManagerBack"]
+	path = TaskManagerBack
+	url = git@github.com:AugustoTSantos/TaskManagerBack.git
+[submodule "TaskManagerFront"]
+	path = TaskManagerFront
+	url = git@github.com:AugustoTSantos/TaskManagerFront.git
