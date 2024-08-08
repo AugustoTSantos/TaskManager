@@ -85,3 +85,11 @@ A simple to-do list with spring-boot maven and h2 DB.
     </tr>
   </tbody>
 </table>
+
+## Data Base
+
+### Conceptual Model
+![](https://github.com/AugustoTSantos/TaskManager/blob/main/images/conceptual-model.png)
+
+### Logical Model
+![](https://github.com/AugustoTSantos/TaskManager/blob/main/images/logical-model.png)
