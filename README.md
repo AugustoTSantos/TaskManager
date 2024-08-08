@@ -96,3 +96,6 @@ A simple to-do list with spring-boot maven and h2 DB.
 
 ### Data Dictionary
 [click here](https://github.com/AugustoTSantos/TaskManager/blob/main/data-dictionary.pdf)
+
+## More Info
+[Project Wiki](https://github.com/AugustoTSantos/TaskManager/wiki)
